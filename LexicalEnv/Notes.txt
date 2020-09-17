@@ -1,0 +1,9 @@
+Lexical environment 
+
+Is like something sits physically on the code. For example :-
+
+function hello () {
+    var a = 10 ------- This is sitting lexically
+}
+
+when the code gets parsed into the computer it gets translated to computer language and we know exactly where the var is sitting on the environment.
